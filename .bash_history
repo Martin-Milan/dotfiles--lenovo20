@@ -534,3 +534,7 @@ git add  -v -f  .git*
 git add  -v -f  .inputrc .minttyrc LICENSE README.md install-options.txt 
 git commit -v -a -m bkup
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
+git commit -v -a -m bkup
+tig
+gitk
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
