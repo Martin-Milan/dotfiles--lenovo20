@@ -521,3 +521,16 @@ shopt|grep -i hist
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep dir
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
+cd 
+cd OneDrive/
+pwd
+mkdir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
+git init --separate-git-dir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
+pwd
+cd
+git init --separate-git-dir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
+git add  -v -f  .bash*
+git add  -v -f  .git*
+git add  -v -f  .inputrc .minttyrc LICENSE README.md install-options.txt 
+git commit -v -a -m bkup
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
