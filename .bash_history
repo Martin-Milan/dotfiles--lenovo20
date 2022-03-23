@@ -607,3 +607,7 @@ git commit -vvv -a -m bkup
 cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
 git pull -vvv ccc main
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
+cd
+git commit -vvv -a -m bkup
+git commit -vvv -a -m bkup
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
