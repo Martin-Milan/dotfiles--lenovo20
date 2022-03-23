@@ -1,17 +1,18 @@
 # mylen-ila
 
-mkdir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
-git init --separate-git-dir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
-git init --separate-git-dir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
+cd
 
 mkdir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
 
-gitdir: C:/Users/marti/OneDrive/mylen-mar.git
+git init --separate-git-dir /c/Users/milan_rxtipwr/OneDrive/mylen-ila.git
 
+cd
 
-/d/GIT-bk04/marti-onedrive.git
-bk04
+mkdir
 
-/c/Users/milan_rxtipwr/OneDrive
+cd
 
+mkdir /d/GIT-bk04/marti-onedrive-mylen-ila.git
+
+git init --separate-git-dir /d/GIT-bk04/marti-onedrive-mylen-ila.git
 
