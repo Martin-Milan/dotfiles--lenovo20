@@ -583,3 +583,15 @@ cd
 git commit -v -a -m bkup
 git commit -vvv -a -m bkup
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+git commit -vvv -a -m bkup
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+ll
+ls -la
+git pull -vvv ccc main
+cat .gitignore 
+cd
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep find
+find OneDrive/ -type f -ls
+find OneDrive/ -type f -ls |tee OneDrive/find-one-ls
+find OneDrive/ -type f -ls |less
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep find
