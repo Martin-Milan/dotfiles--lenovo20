@@ -611,3 +611,18 @@ cd
 git commit -vvv -a -m bkup
 git commit -vvv -a -m bkup
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
+git commit -vvv -a -m bkup
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+git pull -vvv ccc main
+ll
+git add -vv
+git add -vv --dry-run
+git add -vv --dry-run .
+git add -vv --dry-run .|less
+git add -vv --dry-run . 1>1
+git add -vv --dry-run . 1>1|grep boo
+git add -vv --dry-run . 1>1 2>&1|grep boo
+git add -vv --dry-run . 1>1 2>&1|grep -i boo
+git add -vv --dry-run . 1>1 2>&1|grep -i bo
+git add -vv --dry-run . 1>1 2>&1|grep -i b
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
