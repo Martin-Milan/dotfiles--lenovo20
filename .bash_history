@@ -579,3 +579,7 @@ history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-ba
 find . -type d|tee ../find-in-onedr
 find . -type d|tee ../find-in-onedr
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+cd
+git commit -v -a -m bkup
+git commit -vvv -a -m bkup
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
