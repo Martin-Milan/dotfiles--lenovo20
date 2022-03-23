@@ -538,3 +538,44 @@ git commit -v -a -m bkup
 tig
 gitk
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
+git commit -v -a -m bkup
+gitk &
+which.exe gitk
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
+cd /c/ProgramData/Acronis
+cd
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+git info
+git init
+git remote -vvv add ccc  /c/Users/milan_rxtipwr/
+git remote -vvv 
+git pull -v ccc main
+git ls-files
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
+xcopy /?
+xcopy /?|grep -i emp
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep sepa
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep xarg
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+cd
+pwd
+find . -type d -print0 | xargs -0 ls -lad  --
+find OneDrive/ -type d -print0 | xargs -0 ls -lad  --
+find OneDrive/ -type d -print0 
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+find OneDrive/ -type d -print0 
+find OneDrive/ -type f
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+find OneDrive/ -type f
+cd
+find OneDrive/ -type d
+cd OneDrive/
+find . -type d|tee ../find-in-onedr
+find . -type d|tee ../find-in-onedr
+find . -type d|tee --unbuffered ../find-in-onedr
+tee --help
+find . -type d|tee ../find-in-onedr
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+find . -type d|tee ../find-in-onedr
+find . -type d|tee ../find-in-onedr
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
