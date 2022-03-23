@@ -626,3 +626,10 @@ git add -vv --dry-run . 1>1 2>&1|grep -i boo
 git add -vv --dry-run . 1>1 2>&1|grep -i bo
 git add -vv --dry-run . 1>1 2>&1|grep -i b
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
+git commit -vvv -a -m bkup
+cd
+git commit -vvv -a -m bkup
+cd -
+git pull -vvv ccc main
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
