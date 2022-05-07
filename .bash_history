@@ -633,3 +633,121 @@ cd -
 git pull -vvv ccc main
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep git
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+git add -vv --dry-run . 1>1
+git add -vv --dry-run . 2>2
+git add -vv --dry-run . 2>2| grep -i efi
+git add -vv --dry-run . 2>2| grep -i efi
+cd
+git commit -vvv -a -m bkup
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+git pull -vvv ccc main
+git add -vv --dry-run . 2>2| grep -i efi
+cd
+git commit -vvv -a -m bkup
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+git pull -vvv ccc main
+git add -vv --dry-run . 2>2| grep -i efi
+git add -vv --dry-run . 2>2| grep -i zip
+git add -vv --dry-run . 2>2| grep -i key
+git add -vv --dry-run . 2>2| grep -i xml
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+git add -vv --dry-run . 2>2| less
+git add -vv --dry-run . 2>2| wc
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+git commit -vvv -a -m  dee
+git pull -vvv ccc main
+git add -vv  .
+du -m
+du 
+du |sort -n
+git commit -vvv -a -m  dee
+git push -vvv
+git push -vvv -u
+git push -vvv -u ccc
+git push -vvv -u ccc main
+cd
+git remote -vvv add dee  /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+git pull -vvv dee main
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep .
+cd OneDrive/
+cd
+cd OneDrive/
+cd OneDrive/
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep cd
+cd /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
+cd OneDrive
+cd AAABKUP-sums20/
+shopt|grep -i hist
+sha1sum * */* 
+sha1sum * */* >sumsum
+cat sumsum 
+less sumsum 
+ll
+cd ~/OneDrive/AAABKUP-sums20/
+sha1sum * */* >sumsum
+cat sumsum 
+less sumsum 
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep cd
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep umar
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep grep
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep grep|grep '$'
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep grep|grep '[$]'
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep umar
+grep -i a /d/umarti/du-ak--c-d-renamed.txt 
+grep -i txt /d/umarti/du-ak--c-d-renamed.txt 
+grep -i okum /d/umarti/du-ak--c-d-renamed.txt 
+grep -i okum /d/umarti/du-ak--c-d-renamed.txt |sort -n
+grep -i . /d/umarti/du-ak--c-d-renamed.txt |sort -n
+du -m /c/Users/milan_rxtipwr/AndroidStudioProjects/
+grep -i . /d/umarti/du-ak--c-d-renamed.txt |sort -n
+grep -i . /d/umarti/du-ak--c-d-renamed.txt |sort -n
+grep -i . /d/umarti/du-ak--c-d-renamed.txt |sort -n|tail -n 60
+du -m /c/Users/milan_rxtipwr/AndroidStudioProjects/
+du -m /c/Users/milan_rxtipwr/AndroidStudioProjects/ |sort -n
+du -m /c/Users/milan_rxtipwr/.android/ |sort -n
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep umar
+du -m /c/Users/marti/.cache/
+du -m /d/Users/milanlocal/appdata/
+du -m /d/Users/milanlocal/appdata/ |sort -n
+du -m /d/umarti/|sort -n
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep umar
+du -m /d/umarti/ 
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep umar
+ls -latr /c/
+ls -latr /c/*
+ls -1latr /c/*
+ls -1latrd /c/*
+ls -1latrd /c/*/*
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep umar
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep ls
+ls -1latrd /c/*/*
+ls -1latrd /c/* /c/*/* 
+ls -1latrd /c/* /c/*/* /c/*/*/*
+ls -1latrd /c/* /c/*/* /c/*/*/* /c/*/*/*/*
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep ls
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep gpg
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+pwd
+gpg --export  -vvv --output milan-gitb-gpg--export--noarmor
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+cd ~/OneDrive/
+for x in A* 2*; do echo $x; done
+for x in A* 2*; do echo $x; done
+x=223c7
+find "$x"
+find "$x"|wc -l
+y=`find "$x"|wc -l`
+echo "$y" "$x"
+for x in A* 2*; do echo $x; done
+for x in A* 2*; do    y=`find "$x"|wc -l`;  echo $x; done
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+for x in A* 2*; do    y=`find "$x"|wc -l`;  echo "$y" "$x"; done
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+for x in A* 2*; do    y=`find "$x"|wc -l`;  echo "$y" "$x"; done| sort -n
+for x in A* 2*; do    y=`find "$x"|wc -l`;  echo -- "$y" "$x"; done| sort -n
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+cd ..
+cd ..
+cd
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+cd ..
