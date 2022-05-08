@@ -4,8 +4,8 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Milan Martin B.
-	email = martin12333@users.noreply.github.com
+	name = Martin Milan
+	email = 104933785+Martin-Milan@users.noreply.github.com
 
 [core]
 	autocrlf = input
