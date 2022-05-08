@@ -751,3 +751,28 @@ cd ..
 cd
 history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
 cd ..
+git add -fvn "C:\Users\milan_rxtipwr\AppData\Roaming\GHISLER\wincmd.ini"
+git ls-files
+git add -fv "C:\Users\milan_rxtipwr\AppData\Roaming\GHISLER\wincmd.ini"
+git ls-files
+git add -fv "C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"
+git ls-files
+git commit -vvv -a -m  appdata-paste
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep expo
+git show
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep [:]
+ls git add  "C:\Users\milan_rxtipwr\AppData\Roaming\GHISLER\wincmd.ini"
+ls -l git add  "C:\Users\milan_rxtipwr\AppData\Roaming\GHISLER\wincmd.ini"
+ls -l git add  C:\Users\milan_rxtipwr\AppData\Roaming\GHISLER\wincmd.ini
+ls -l git add  'C:\Users\milan_rxtipwr\AppData\Roaming\GHISLER\wincmd.ini'
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep [:]
+git remote add origin https://github.com/Martin-Milan/dotfiles--lenovo20.git
+git branch -M main
+git branch 
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep pull
+git pull -v origin main
+git push -u origin main
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep pull
+git clone https://github.com/Martin-Milan/dotfiles--lenovo20.git
+git push -uf origin main
+history -a;  cp -v ~/.bash_history /c/Users/milan_rxtipwr/OneDrive/AABKUP-git-bash-dotfiles/.bash_history; history |grep pull
